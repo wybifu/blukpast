@@ -1,0 +1,83 @@
+[ INFO  ][ 2019-01-04 15:34:19 ] -> Creating Memory pools...
+[ INFO  ][ 2019-01-04 15:34:19 ] -> Starting Graphics Engine ...
+[ INFO  ][ 2019-01-04 15:34:19 ] -> Starting GLFW 3.2.1 X11 GLX EGL clock_gettime /dev/js Xf86vm shared
+[ INFO  ][ 2019-01-04 15:34:20 ] -> Monitor info:
+[ INFO  ][ 2019-01-04 15:34:20 ] -> #1 1920x1080
+[ INFO  ][ 2019-01-04 15:34:20 ] -> #0 1366x768
+[ INFO  ][ 2019-01-04 15:34:20 ] -> --------------------------
+
+[ INFO  ][ 2019-01-04 15:34:20 ] -> GL Context Params : 
+[ INFO  ][ 2019-01-04 15:34:20 ] -> GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS : 192
+[ INFO  ][ 2019-01-04 15:34:20 ] -> GL_MAX_CUBE_MAP_TEXTURE_SIZE : 16384
+[ INFO  ][ 2019-01-04 15:34:20 ] -> GL_MAX_DRAW_BUFFERS : 8
+[ INFO  ][ 2019-01-04 15:34:20 ] -> GL_MAX_FRAGMENT_UNIFORM_COMPONENTS : 16384
+[ INFO  ][ 2019-01-04 15:34:20 ] -> GL_MAX_TEXTURE_IMAGE_UNITS : 32
+[ INFO  ][ 2019-01-04 15:34:20 ] -> GL_MAX_TEXTURE_SIZE : 16384
+[ INFO  ][ 2019-01-04 15:34:20 ] -> GL_MAX_VARYING_FLOATS : 128
+[ INFO  ][ 2019-01-04 15:34:20 ] -> GL_MAX_VERTEX_ATTRIBS : 16
+[ INFO  ][ 2019-01-04 15:34:20 ] -> GL_MAX_VERTEX_TEXTURE_IMAGE_UNITS : 32
+[ INFO  ][ 2019-01-04 15:34:20 ] -> GL_MAX_VERTEX_UNIFORM_COMPONENTS : 16384
+[ INFO  ][ 2019-01-04 15:34:20 ] -> GL_MAX_MULTISAMPLE_COVERAGE_MODES_NV : 0
+[ INFO  ][ 2019-01-04 15:34:20 ] -> GL_MAX_SAMPLES : 8
+[ INFO  ][ 2019-01-04 15:34:20 ] -> GL_MAX_MULTISAMPLE_COVERAGE_MODES_NV : 32768 : 32768
+[ INFO  ][ 2019-01-04 15:34:20 ] -> GL_MAX_SAMPLES : 0
+[ INFO  ][ 2019-01-04 15:34:20 ] -> --------------------------
+
+[ INFO  ][ 2019-01-04 15:34:20 ] -> Opening window with GLFW3 [OK]
+[ INFO  ][ 2019-01-04 15:34:20 ] -> Renderer : Mesa DRI Intel(R) Haswell Mobile 
+[ INFO  ][ 2019-01-04 15:34:20 ] -> OpenGL version : 4.5 (Core Profile) Mesa 17.3.9
+[ INFO  ][ 2019-01-04 15:34:20 ] -> OpenGL version: 4.5
+[ INFO  ][ 2019-01-04 15:34:20 ] -> ------------- shader programme 3 info ---------------
+[ INFO  ][ 2019-01-04 15:34:20 ] -> 		GL_LINK_STATUS = 1:
+[ INFO  ][ 2019-01-04 15:34:20 ] -> 		GL_ATTACHED_SHADERS = 2:
+[ INFO  ][ 2019-01-04 15:34:20 ] -> 		GL_ACTIVE_ATTRIBUTES = 1:
+[ INFO  ][ 2019-01-04 15:34:20 ] -> 		0) type:vec2 name: vertices location: 0
+[ INFO  ][ 2019-01-04 15:34:20 ] -> 		GL_ACTIVE_UNIFORMS = 4:
+[ INFO  ][ 2019-01-04 15:34:20 ] -> 		0) type:mat4 name: model location: 0
+[ INFO  ][ 2019-01-04 15:34:20 ] -> 		1) type:mat4 name: view location: 1
+[ INFO  ][ 2019-01-04 15:34:20 ] -> 		2) type:mat4 name: projection location: 2
+[ INFO  ][ 2019-01-04 15:34:20 ] -> 		3) type:vec4 name: rect_color location: 3
+[ INFO  ][ 2019-01-04 15:34:20 ] -> ------------- end info ---------------
+[ INFO  ][ 2019-01-04 15:34:20 ] -> ------------- shader programme 6 info ---------------
+[ INFO  ][ 2019-01-04 15:34:20 ] -> 		GL_LINK_STATUS = 1:
+[ INFO  ][ 2019-01-04 15:34:20 ] -> 		GL_ATTACHED_SHADERS = 2:
+[ INFO  ][ 2019-01-04 15:34:20 ] -> 		GL_ACTIVE_ATTRIBUTES = 1:
+[ INFO  ][ 2019-01-04 15:34:20 ] -> 		0) type:vec4 name: vertices location: 0
+[ INFO  ][ 2019-01-04 15:34:20 ] -> 		GL_ACTIVE_UNIFORMS = 7:
+[ INFO  ][ 2019-01-04 15:34:20 ] -> 		0) type:mat4 name: view location: 0
+[ INFO  ][ 2019-01-04 15:34:20 ] -> 		1) type:mat4 name: model location: 1
+[ INFO  ][ 2019-01-04 15:34:20 ] -> 		2) type:mat4 name: projection location: 2
+[ INFO  ][ 2019-01-04 15:34:20 ] -> 		3) type:vec4 name: vt_ location: 3
+[ INFO  ][ 2019-01-04 15:34:20 ] -> 		4) type:sampler2D name: sprite location: 4
+[ INFO  ][ 2019-01-04 15:34:20 ] -> 		5) type:vec4 name: spriteColor location: 5
+[ INFO  ][ 2019-01-04 15:34:20 ] -> 		6) type:float name: alpha_factor location: 6
+[ INFO  ][ 2019-01-04 15:34:20 ] -> ------------- end info ---------------
+[ INFO  ][ 2019-01-04 15:34:20 ] -> 2D Graphics Engine start [OK]
+[ INFO  ][ 2019-01-04 15:34:20 ] -> Initializing FreeType2 Library
+[ INFO  ][ 2019-01-04 15:34:20 ] -> ------------- shader programme 9 info ---------------
+[ INFO  ][ 2019-01-04 15:34:20 ] -> 		GL_LINK_STATUS = 1:
+[ INFO  ][ 2019-01-04 15:34:20 ] -> 		GL_ATTACHED_SHADERS = 2:
+[ INFO  ][ 2019-01-04 15:34:20 ] -> 		GL_ACTIVE_ATTRIBUTES = 1:
+[ INFO  ][ 2019-01-04 15:34:20 ] -> 		0) type:vec4 name: vertices location: 0
+[ INFO  ][ 2019-01-04 15:34:20 ] -> 		GL_ACTIVE_UNIFORMS = 3:
+[ INFO  ][ 2019-01-04 15:34:20 ] -> 		0) type:mat4 name: projection location: 0
+[ INFO  ][ 2019-01-04 15:34:20 ] -> 		1) type:sampler2D name: text location: 1
+[ INFO  ][ 2019-01-04 15:34:20 ] -> 		2) type:vec4 name: textColor location: 2
+[ INFO  ][ 2019-01-04 15:34:20 ] -> ------------- end info ---------------
+[ INFO  ][ 2019-01-04 15:34:20 ] -> Graphics Engine started
+[ INFO  ][ 2019-01-04 15:35:45 ] -> 	________________________________
+[ INFO  ][ 2019-01-04 15:35:45 ] -> 	*POOLS* Allocated : 696.0 Kb
+[ INFO  ][ 2019-01-04 15:35:45 ] -> 	*POOLS* Used : 0.8 Kb
+[ INFO  ][ 2019-01-04 15:35:45 ] -> 	*POOLS* Free : 695.2 Kb
+[ INFO  ][ 2019-01-04 15:35:45 ] -> 
+
+[ INFO  ][ 2019-01-04 15:35:45 ] -> deleting shader programe 9
+[ INFO  ][ 2019-01-04 15:35:45 ] -> On screen Texter closed [OK]
+[ INFO  ][ 2019-01-04 15:35:45 ] -> deleting shader programe 3
+[ INFO  ][ 2019-01-04 15:35:45 ] -> deleting shader programe 6
+[ INFO  ][ 2019-01-04 15:35:45 ] -> 2D Graphics  Engine stopped [OK]
+[ INFO  ][ 2019-01-04 15:35:45 ] -> Window closed [OK]
+[ INFO  ][ 2019-01-04 15:35:45 ] -> Graphics Engine stopped [OK]
+[ INFO  ][ 2019-01-04 15:35:45 ] -> Destroying Memory pools[OK]
+[ INFO  ][ 2019-01-04 15:35:45 ] -> Logger closed [OK]
+[ INFO  ][ 2019-01-04 15:35:45 ] -> Game Engine stopped [OK]
